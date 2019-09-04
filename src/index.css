@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ui.grid>.row>.column>img.image-game {
+  max-width: 196px;
+}
